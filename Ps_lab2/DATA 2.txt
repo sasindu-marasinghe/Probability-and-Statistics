@@ -1,0 +1,4 @@
+Fruits, colors
+manogo, yellow
+banana,red
+apple,black
